@@ -1,0 +1,13 @@
+/lib/
+/bin/
+/.settings/
+/.classpath
+.project
+*.jar
+*.class
+*.log
+*.iml
+*.db
+config.properties
+.DS_Store
+.vscode/
